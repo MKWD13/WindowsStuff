@@ -1,2 +1,2 @@
-# WindowsStuff
-i put stuff here for youre windows os for now its only cursors soon maybe more...
+# GreenCursorPack
+Just a basic green Cursor Pack if any issues there is a discussion channel..
